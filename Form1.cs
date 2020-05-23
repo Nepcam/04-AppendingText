@@ -28,10 +28,10 @@ namespace AppendingText
 
             // add five lines of text
             outputFile.WriteLine("Last-minute guests:");
-            outputFile.WriteLine("- Lynn");
-            outputFile.WriteLine("- Steve");
-            outputFile.WriteLine("- Bianca");
-            outputFile.WriteLine("- John");
+            outputFile.WriteLine("- Pae");
+            outputFile.WriteLine("- Rikirangi");
+            outputFile.WriteLine("- Arihia");
+            outputFile.WriteLine("- Jack");
 
             // close the stream/file, ensuring all data will be saved in the file
             outputFile.Close();
